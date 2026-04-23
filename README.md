@@ -35,3 +35,11 @@ The purpose of the code is to demonstrate basic HTML structure.
 - GitHub
 
 ## Screenshots
+LANDING PAGE SCREENSHOT
+<img width="1366" height="768" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/f31beddf-bb84-4c2a-9020-80b0f0ea4d09" />
+
+GITHUB REPOSITORY SCREENSHOT
+<img width="1366" height="768" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/a1d193c6-222d-4f75-81e6-7c44c0ef176d" />
+
+INDEX HTML FILE SCREENSHOT
+<img width="1366" height="768" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/09c5181a-84b6-4184-96bf-ad953ff746b8" />
